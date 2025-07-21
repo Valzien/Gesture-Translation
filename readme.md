@@ -17,14 +17,14 @@ Proyek ini adalah sistem penerjemah bahasa isyarat berbasis Python yang dapat me
    git clone https://github.com/Valzien/Gesture-Translation.git
    cd Gesture-Translation
 
-Aktifkan virtual environment dan install dependensi
+2. **Aktifkan virtual environment dan install dependensi**
 
    ```bash
    python -m venv .venv
    .venv\Scripts\activate
    pip install -r requirements.txt
    ```
-   Jalankan program utama
+3. **Jalankan program utama**
    ```bash
    python main.py
    ```
