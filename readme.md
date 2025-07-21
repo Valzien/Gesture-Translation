@@ -29,21 +29,13 @@ Proyek ini adalah sistem penerjemah bahasa isyarat berbasis Python yang dapat me
    python main.py
    ```
 
-🚧 Roadmap Pengembangan
- Deteksi gesture satu tangan (A–Z)
+## 🚧 Roadmap Pengembangan
 
- Dukungan dua tangan
+ - Deteksi gesture satu tangan (A–Z)
+ - Dukungan dua tangan
+ - Gesture dinamis (misal: "halo")
+ - Interface pengguna berbasis GUI atau web
+ - Deteksi kata/kalimat dari urutan gesture
 
- Gesture dinamis (misal: "halo")
 
- Interface pengguna berbasis GUI atau web
-
- Deteksi kata/kalimat dari urutan gesture
-
-🤝 Kontribusi
-Terbuka untuk kontribusi! Silakan buat pull request atau issue untuk diskusi fitur baru atau perbaikan bug.
-
-📄 Lisensi
-MIT License
-
-🎯 Proyek ini bertujuan menjadi solusi teknologi untuk membantu komunikasi teman tuli melalui penerjemahan gesture tangan secara real-time.
+**🎯 Proyek ini bertujuan menjadi solusi teknologi untuk membantu komunikasi teman tuli melalui penerjemahan gesture tangan secara real-time.**
