@@ -19,20 +19,15 @@ Proyek ini adalah sistem penerjemah bahasa isyarat berbasis Python yang dapat me
 
 Aktifkan virtual environment dan install dependensi
 
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-
-Jalankan program utama
-python main.py
-
-🧪 Teknologi yang Digunakan
-Python
-MediaPipe
-OpenCV
-TensorFlow / Keras
-scikit-learn
-gTTS (Google Text-to-Speech)
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+   Jalankan program utama
+   ```bash
+   python main.py
+   ```
 
 🚧 Roadmap Pengembangan
  Deteksi gesture satu tangan (A–Z)
